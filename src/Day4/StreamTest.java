@@ -1,9 +1,6 @@
 package Day4;
 
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
-import org.w3c.dom.ls.LSOutput;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
